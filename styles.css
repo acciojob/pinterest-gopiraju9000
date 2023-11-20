@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.hero{
+	display:inline-block;
+	justify-content:center;
+	align-items:auto;
+}
+img{
+	width:500px;
+	height:300px;
+	object-fit:cover;
+}
+#b{
+	text-decoration:none;
+}
