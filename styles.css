@@ -11,4 +11,11 @@ img{
 }
 #b{
 	text-decoration:none;
+	style-type:none;
+	background-color:red;
+	color:white;
+	padding:10px;
+	border: 1px white;
+	cursor:pointer;
+	
 }
